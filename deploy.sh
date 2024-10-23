@@ -1,1 +1,2 @@
-echo "Hello World Deployed"
+npm run build
+docker-compose build
